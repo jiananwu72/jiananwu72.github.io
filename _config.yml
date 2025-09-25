@@ -52,4 +52,4 @@ exclude:
   - LICENSE
   - minimal-light.gemspec
   - html_source_file/
-  - _include/services.md
+  - _includes/services.md
